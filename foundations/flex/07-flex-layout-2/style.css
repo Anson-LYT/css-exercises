@@ -5,6 +5,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .header {
@@ -43,6 +44,7 @@ body {
 
 .container {
   display: flex;
+  flex: 1;
 }
 
 .cards-container {
