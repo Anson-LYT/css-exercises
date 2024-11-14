@@ -63,3 +63,7 @@ ul {
 .buttons {
   gap: 8px;
 }
+
+.footer {
+  background-color: #eeeeee;
+}
