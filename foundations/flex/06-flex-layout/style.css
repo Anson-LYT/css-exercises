@@ -27,4 +27,18 @@ input {
 
 ul {
   list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 8px;
 }
