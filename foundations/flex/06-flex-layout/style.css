@@ -69,3 +69,7 @@ ul {
 .footer {
   background-color: #eeeeee;
 }
+
+a {
+  text-decoration: none;
+}
