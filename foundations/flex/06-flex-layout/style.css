@@ -50,6 +50,7 @@ ul {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  gap: 16px;
 }
 
 .logo,
@@ -57,4 +58,8 @@ ul {
 .buttons {
   display: flex;
   justify-content: center;
+}
+
+.buttons {
+  gap: 8px;
 }
